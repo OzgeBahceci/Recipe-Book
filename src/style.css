@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+  background-repeat: no-repeat;
+   background-size: cover;}
+.card {
+    border-radius: 10px;
+    height: 450px;
+    margin: 20;
+  }
+  .card-img-top {
+    height: 200px;
+
+    object-fit: cover;
+  }
+  .card-img{
+    width: 150px;
+  }
+.cardAll{
+  margin-bottom: 30px;
+}
+  .card-title {
+    color: blue;
+  }
+  .card-body {
+    height: 150px;
+    overflow: hidden;
+  }
+  .yemek-tarifi-listesi .card .card-body .btn {
+    margin-bottom: 10px;
+  }
+  
+  .yemek-tarifi-listesi .card .card-body .btn-success {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .card-row {
+    margin: 70px;
+  }
+  .test{
+    color: Chocolate;
+  }
